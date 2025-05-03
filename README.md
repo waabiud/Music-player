@@ -15,16 +15,16 @@ A customizable, genre-based music player built with React. Supports playlists, p
 ## 📁 Folder Structure
 
 .
-├── public/ /n
-│ ├── songs/ # MP3 files /n
-│ ├── robots.txt /n
-│ └── index.html /n
-├── src/
-│ ├── components/
-│ │ └── MusicPlayer.js
-│ ├── App.js
-│ ├── index.js
-│ └── MusicPlayer.css
+├── public/ <br>
+│ ├── songs/ # MP3 files <br>
+│ ├── robots.txt <br>
+│ └── index.html <br>
+├── src/ <br>
+│ ├── components/ <br>
+│ │ └── MusicPlayer.js <br>
+│ ├── App.js <br>
+│ ├── index.js <br>
+│ └── MusicPlayer.css <br>
 └── README.md
 
 ## 🛠️ Installation
