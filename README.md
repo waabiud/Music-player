@@ -1,8 +1,8 @@
-# 🎵 React Music Player
+## 🎵 React Music Player
 
 A customizable, genre-based music player built with React. Supports playlists, playback controls, search, themes, and more.
 
-## 🚀 Features
+# 🚀 Features
 
 - 🎶 Play/pause, next/previous track  
 - 🔊 Volume control  
@@ -12,7 +12,7 @@ A customizable, genre-based music player built with React. Supports playlists, p
 - 🌙 Dark/light mode toggle  
 - 📝 Responsive UI with playlist support  
 
-## 📁 Folder Structure
+# 📁 Folder Structure
 
 .
 ├── public/ <br>
@@ -27,7 +27,7 @@ A customizable, genre-based music player built with React. Supports playlists, p
 │ └── MusicPlayer.css <br>
 └── README.md
 
-## 🛠️ Installation
+# 🛠️ Installation
 
 ```bash
 git clone https://github.com/waabiud/Music-player.git
@@ -42,13 +42,11 @@ npm install
 ```bash
 npm start
 ```
-```bash
-🏗️ Build for Production
-```
+# 🏗️ Build for Production
 
 ```bash
 npm run build
 ```
 
-Live Demo
+# Live Demo
 https://music-player-sable-omega.vercel.app/
