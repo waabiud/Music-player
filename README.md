@@ -30,7 +30,7 @@ A customizable, genre-based music player built with React. Supports playlists, p
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/react-music-player.git
+git clone https://github.com/waabiud/Music-player.git
 ```
 
 ```bash
