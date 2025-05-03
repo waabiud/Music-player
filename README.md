@@ -31,11 +31,20 @@ A customizable, genre-based music player built with React. Supports playlists, p
 
 ```bash
 git clone https://github.com/your-username/react-music-player.git
-cd react-music-player
-npm install
-npm start
+```
 
+```bash
+cd react-music-player
+```
+npm install
+``
+```bash
+npm start
+```
+```bash
 🏗️ Build for Production
+```
 
 ```bash
 npm run build
+```
