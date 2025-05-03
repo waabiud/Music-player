@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+button {
+  cursor: pointer;
+  padding: 10px 16px;
+  margin: 8px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  background-color: #4caf50;
+  color: rgb(17, 17, 17);
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+input, select {
+  padding: 10px;
+  margin: 10px 0;
+  font-size: 14px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.player-container {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.track-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin: 15px 0;
+}
+
+.slider-group {
+  margin: 15px 0;
+}
+
+.genre-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 15px;
+}
+
+.genre-button {
+  padding: 8px 14px;
+  font-size: 14px;
+  border: 1px solid #888;
+  border-radius: 6px;
+  background-color: #eee;
+}
+
+.genre-button.active {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.search-input {
+  width: 80%;
+  max-width: 300px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+.playlist {
+  text-align: left;
+  margin-top: 20px;
+}
+
+.playlist-item {
+  padding: 8px;
+  cursor: pointer;
+  border-bottom: 1px solid #ccc;
+}
+
+.playlist-item:hover {
+  background-color: #f1f1f1;
+}
+
+/* Dark and light mode styling applied to player-container */
+.player-container.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.player-container.light-mode {
+  background-color: white;
+  color: black;
+}
