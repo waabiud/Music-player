@@ -35,9 +35,10 @@ git clone https://github.com/waabiud/Music-player.git
 
 ```bash
 cd react-music-player
+```bash
+npm install 
 ```
-npm install
-``
+
 ```bash
 npm start
 ```
@@ -48,3 +49,6 @@ npm start
 ```bash
 npm run build
 ```
+
+Live Demo
+https://music-player-sable-omega.vercel.app/
