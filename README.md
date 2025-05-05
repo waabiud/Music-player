@@ -13,7 +13,7 @@ A customizable, genre-based music player built with React. Supports playlists, p
 - 📝 Responsive UI with playlist support
 
  ## Screenshot
-![App Screenshot](screenshots/MusicPlayer.png)
+![Music Player Screenshot](public/musicplayer.png)
 
 ## 📁 Folder Structure
 
