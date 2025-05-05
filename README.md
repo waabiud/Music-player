@@ -10,7 +10,10 @@ A customizable, genre-based music player built with React. Supports playlists, p
 - 🔍 Search by song title  
 - 🎧 Filter by genre (Pop, Jazz, Rumba, etc.)  
 - 🌙 Dark/light mode toggle  
-- 📝 Responsive UI with playlist support  
+- 📝 Responsive UI with playlist support
+
+ ## Screenshot
+![App Screenshot](screenshots/MusicPlayer.png)
 
 ## 📁 Folder Structure
 
