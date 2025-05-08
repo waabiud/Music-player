@@ -17,7 +17,6 @@ A customizable, genre-based music player built with React. Supports playlists, p
 
 ## 📁 Folder Structure
 
-.
 ├── public/ <br>
 │ ├── songs/ # MP3 files <br>
 │ ├── robots.txt <br>
